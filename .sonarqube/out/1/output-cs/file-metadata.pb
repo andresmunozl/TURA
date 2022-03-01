@@ -1,0 +1,14 @@
+_
+VC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Entities\ConnectorEntity.csutf-8e
+\C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Entities\CorrelationRuleEntity.csutf-8c
+ZC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Entities\Identity2UserEntity.csutf-8^
+UC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Entities\IdentityEntity.csutf-8Z
+QC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Entities\UserEntity.csutf-8U
+LC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\ITuraDBContext.csutf-8h
+_C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Repositories\IConnectorRepository.csutf-8o
+fC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Repositories\ICorrelationRulesRepository.csutf-8g
+^C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Repositories\IIdentityRepository.csutf-8_
+VC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Repositories\IRepository.csutf-8c
+ZC:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Repositories\IUserRepository.csutf-8[
+PC:\Users\flacm\AppData\Local\Temp\.NETCoreApp,Version=v3.0.AssemblyAttributes.csutf-8‡
+|C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\obj\Debug\netcoreapp3.0\Tura.DataAccess.Contracts.AssemblyInfo.csutf-8

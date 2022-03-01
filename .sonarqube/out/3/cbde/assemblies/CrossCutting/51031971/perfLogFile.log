@@ -1,0 +1,10 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Users\flacm\source\repos\Tura\CrossCutting\IoCRegister.cs	13	_CrossCutting.IoCRegister.AddRegistration$Microsoft.Extensions.DependencyInjection.IServiceCollection$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	10	_CrossCutting.Mapper.Model2EntityMapper$Tura.App.Contracts.Models.IdentityModel$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	26	_CrossCutting.Mapper.Entity2ModelMapper$Tura.DataAccess.Contracts.Entities.IdentityEntity$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	41	_CrossCutting.Mapper.Model2EntityMapper$Tura.App.Contracts.Models.UserModel$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	56	_CrossCutting.Mapper.Entity2ModelMapper$Tura.DataAccess.Contracts.Entities.UserEntity$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	70	_CrossCutting.Mapper.Model2EntityMapper$Tura.App.Contracts.Models.ConnectorModel$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	85	_CrossCutting.Mapper.Entity2ModelMapper$Tura.DataAccess.Contracts.Entities.ConnectorEntity$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	101	_CrossCutting.Mapper.Model2EntityMapper$Tura.App.Contracts.Models.CorrelationRuleModel$	0	2
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs	110	_CrossCutting.Mapper.Entity2ModelMapper$Tura.DataAccess.Contracts.Entities.CorrelationRuleEntity$	0	2

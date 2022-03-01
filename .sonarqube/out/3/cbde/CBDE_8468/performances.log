@@ -1,0 +1,34 @@
+C:\Users\flacm\source\repos\Tura\CrossCutting\AppConfig.cs
+
+C:\Users\flacm\source\repos\Tura\CrossCutting\IAppConfig.cs
+
+C:\Users\flacm\source\repos\Tura\CrossCutting\IoCRegister.cs
+AddRegistration 18
+AddRegistration 0
+AddRegisterRepository 10
+AddRegisterRepository 0
+AddConfiguration 44
+AddConfiguration 0
+
+C:\Users\flacm\source\repos\Tura\CrossCutting\Mapper.cs
+Model2EntityMapper 14
+Model2EntityMapper 0
+Entity2ModelMapper 45
+Entity2ModelMapper 0
+Model2EntityMapper 27
+Model2EntityMapper 0
+Entity2ModelMapper 15
+Entity2ModelMapper 0
+Model2EntityMapper 40
+Model2EntityMapper 0
+Entity2ModelMapper 14
+Entity2ModelMapper 15
+Model2EntityMapper 10
+Model2EntityMapper 0
+Entity2ModelMapper 12
+Entity2ModelMapper 0
+
+C:\Users\flacm\AppData\Local\Temp\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+
+C:\Users\flacm\source\repos\Tura\CrossCutting\obj\Debug\netcoreapp3.0\CrossCutting.AssemblyInfo.cs
+

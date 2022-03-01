@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f93f03d4-26c1-4f7a-bf78-478596797fa6": {
+      "ProjectGuid": "f93f03d4-26c1-4f7a-bf78-478596797fa6",
+      "DisplayName": "Tura",
+      "ColorIndex": 0
+    },
+    "9feb339a-4ec3-4d25-bedc-467370cb7ddc": {
+      "ProjectGuid": "9feb339a-4ec3-4d25-bedc-467370cb7ddc",
+      "DisplayName": "TuraFront",
+      "ColorIndex": 1
+    },
+    "d134a5e8-5313-42f6-8629-d5bbaeaf9d3a": {
+      "ProjectGuid": "d134a5e8-5313-42f6-8629-d5bbaeaf9d3a",
+      "DisplayName": "Tura.App.Contracts",
+      "ColorIndex": 2
+    },
+    "6397d6a2-843a-4a6c-8d40-0b0acd8e0099": {
+      "ProjectGuid": "6397d6a2-843a-4a6c-8d40-0b0acd8e0099",
+      "DisplayName": "Tura.DataAccess",
+      "ColorIndex": 3
+    },
+    "22a57bc7-5654-459a-87a7-b60245a2f7b8": {
+      "ProjectGuid": "22a57bc7-5654-459a-87a7-b60245a2f7b8",
+      "DisplayName": "Tura.DataAccess.Contracts",
+      "ColorIndex": 4
+    },
+    "ee95ed76-6263-4722-9959-987134a27f41": {
+      "ProjectGuid": "ee95ed76-6263-4722-9959-987134a27f41",
+      "DisplayName": "CrossCutting",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

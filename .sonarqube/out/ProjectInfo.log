@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+C:\Users\flacm\source\repos\Tura\Tura.App.Contracts\Tura.App.Contracts.csproj
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\Tura.DataAccess.Contracts.csproj
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess\Tura.DataAccess.csproj
+C:\Users\flacm\source\repos\Tura\CrossCutting\CrossCutting.csproj
+C:\Users\flacm\source\repos\Tura\Tura.App\Tura.App.csproj
+C:\Users\flacm\source\repos\Tura\TuraFront\TuraFront.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

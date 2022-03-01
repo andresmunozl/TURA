@@ -1,0 +1,6 @@
+projectKey=PruebaPI
+serverUrl=http://localhost:9999
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9999/dashboard?id=PruebaPI
+ceTaskId=AXV75mw-JpAvTd0gdTSU
+ceTaskUrl=http://localhost:9999/api/ce/task?id=AXV75mw-JpAvTd0gdTSU

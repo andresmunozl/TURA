@@ -1,0 +1,15 @@
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\CrossCutting.deps.json
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\CrossCutting.dll
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\CrossCutting.pdb
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\Tura.App.Contracts.dll
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\Tura.DataAccess.Contracts.dll
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\Tura.DataAccess.dll
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\Tura.App.Contracts.pdb
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\Tura.DataAccess.Contracts.pdb
+C:\Users\flacm\source\repos\Tura\CrossCutting\bin\Release\netcoreapp3.0\Tura.DataAccess.pdb
+C:\Users\flacm\source\repos\Tura\CrossCutting\obj\Release\netcoreapp3.0\CrossCutting.csprojAssemblyReference.cache
+C:\Users\flacm\source\repos\Tura\CrossCutting\obj\Release\netcoreapp3.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\flacm\source\repos\Tura\CrossCutting\obj\Release\netcoreapp3.0\CrossCutting.AssemblyInfo.cs
+C:\Users\flacm\source\repos\Tura\CrossCutting\obj\Release\netcoreapp3.0\CrossCutting.csproj.CopyComplete
+C:\Users\flacm\source\repos\Tura\CrossCutting\obj\Release\netcoreapp3.0\CrossCutting.dll
+C:\Users\flacm\source\repos\Tura\CrossCutting\obj\Release\netcoreapp3.0\CrossCutting.pdb

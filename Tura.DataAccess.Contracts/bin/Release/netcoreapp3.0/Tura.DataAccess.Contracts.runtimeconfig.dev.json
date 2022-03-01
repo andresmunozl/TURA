@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\flacm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\flacm\\.nuget\\packages"
+    ]
+  }
+}

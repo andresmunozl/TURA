@@ -1,0 +1,10 @@
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\bin\Release\netcoreapp3.0\Tura.DataAccess.Contracts.deps.json
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\bin\Release\netcoreapp3.0\Tura.DataAccess.Contracts.runtimeconfig.json
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\bin\Release\netcoreapp3.0\Tura.DataAccess.Contracts.runtimeconfig.dev.json
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\bin\Release\netcoreapp3.0\Tura.DataAccess.Contracts.dll
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\bin\Release\netcoreapp3.0\Tura.DataAccess.Contracts.pdb
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\obj\Release\netcoreapp3.0\Tura.DataAccess.Contracts.csprojAssemblyReference.cache
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\obj\Release\netcoreapp3.0\Tura.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\obj\Release\netcoreapp3.0\Tura.DataAccess.Contracts.AssemblyInfo.cs
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\obj\Release\netcoreapp3.0\Tura.DataAccess.Contracts.dll
+C:\Users\flacm\source\repos\Tura\Tura.DataAccess.Contracts\obj\Release\netcoreapp3.0\Tura.DataAccess.Contracts.pdb

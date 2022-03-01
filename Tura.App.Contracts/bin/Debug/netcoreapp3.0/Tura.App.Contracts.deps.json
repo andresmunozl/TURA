@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Tura.App.Contracts/1.0.0": {
+        "runtime": {
+          "Tura.App.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tura.App.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,53 @@
+<body>
+  <div class="wrapper">
+    <nav id="sidebar" [ngClass]="{ 'active': isCollapsed }">
+      <div class="sidebar-header">
+        <img class="product-logo" src="../../assets/TuraIco.png" />
+        <h4 class="product-title">Tura Web Management</h4>
+      </div>
+
+      <ul id="MainMenu" class="list-unstyled components">
+        <li routerLinkActive="active">
+          <a [routerLink]='["/","home"]'>Home</a>
+        </li>
+        <li routerLinkActive="router-link-active">
+          <a href="#ConnectorsSubmenu" data-toggle="collapse" aria-expanded="false" data-target="#ConnectorsSubmenu" class="dropdown-toggle">Connectors</a>
+          <ul class="collapse list-unstyled" id="ConnectorsSubmenu" data-parent="#MainMenu" routerLinkActive="show">
+            <li routerLinkActive="active">
+              <a [routerLink]="['/','connectors']">Connectors</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#IdentitiesSubmenu" data-toggle="collapse" data-target="#IdentitiesSubmenu" aria-expanded="false" class="dropdown-toggle">Identities</a>
+          <ul class="collapse list-unstyled" id="IdentitiesSubmenu" data-parent="#MainMenu" routerLinkActive="show">
+            <li routerLinkActive="active">
+              <a [routerLink]="['/', 'identities']">Identities</a>
+            </li>
+          </ul>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]='["/", "correlation"]'>Correlation Rules</a>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]='["/", "about"]'>About</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div id="content" [ngClass]="{ 'active': isCollapsed }">
+      <div id="main-content" class="container-fluid">
+        <nav class="navbar navbar-dark bg-dark">
+          <div class="container-fluid">
+            <button type="button" class="btn btn-dark navbar-toggler navbar-btn" (click)="toggle()">
+              <i class="fas" [ngClass]="{ 'fa-bars': isCollapsed, 'fa-caret-square-left': !isCollapsed }"></i>
+            </button>
+          </div>
+        </nav>
+
+        <router-outlet></router-outlet>
+
+      </div>
+    </div>
+  </div>
+</body>

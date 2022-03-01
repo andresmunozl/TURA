@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Tura.App.Contracts</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>d134a5e8-5313-42f6-8629-d5bbaeaf9d3a</ProjectGuid>
+  <FullPath>C:\Users\flacm\source\repos\Tura\Tura.App.Contracts\Tura.App.Contracts.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\flacm\source\repos\Tura\.sonarqube\out\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\flacm\source\repos\Tura\Tura.App.Contracts\bin\Debug\netcoreapp3.0\Tura.App.Contracts.dll.RoslynCA.json|C:\Users\flacm\source\repos\Tura\Tura.App.Contracts\bin\Debug\netcoreapp3.0\Tura.App.Contracts.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\flacm\source\repos\Tura\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp3.0</TargetFramework>
+</ProjectInfo>

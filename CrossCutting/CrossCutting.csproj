@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tura.App.Contracts\Tura.App.Contracts.csproj" />
+    <ProjectReference Include="..\Tura.DataAccess.Contracts\Tura.DataAccess.Contracts.csproj" />
+    <ProjectReference Include="..\Tura.DataAccess\Tura.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
